@@ -1,0 +1,21 @@
+.form-signup{
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+    margin-top: 25px;
+    border: 2px solid blue;
+
+}
+.bt{
+    width: 128px;
+    height: 6vh;
+    font-size: 19px;
+    background-color: aquamarine;
+    margin-top: 25px;
+}
+input{
+    height: 6vh;
+    margin: 8px;
+    font-size: 19px;
+}

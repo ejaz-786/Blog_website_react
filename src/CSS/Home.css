@@ -1,0 +1,46 @@
+.home{
+    text-align: center;
+    padding: 2%;
+}
+
+.blog-card{
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+
+}
+.blog-card>div{
+    width: 380px;
+    margin: 15px;
+    border: 2px solid rgb(150, 27, 27);
+    border-radius: 10px;
+   
+}
+#read-more>button{
+   padding: 7px;
+   font-size: 3vh;
+   font-weight: bold;
+   border-radius: 3px;
+   margin: 10px;
+   background-color: rgb(233, 94, 122);
+   box-shadow: 4px 4px 4px black;
+}
+#del{
+    height: 5vh;
+    padding: 4px 15px;
+    background-color: rgb(240, 6, 6);
+    color :white;
+    margin-bottom: 4px;
+    border-radius: 4px;
+    font-size: 18px;
+}
+#edit{
+    height: 5vh;
+    padding: 4px 15px;
+    background-color: rgb(4, 35, 92);
+    color :white;   
+    margin-bottom: 4px;
+    border-radius: 4px;
+    font-size: 18px;
+}

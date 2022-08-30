@@ -1,0 +1,20 @@
+.form-login{
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    margin-top: 25px;
+
+}
+.bt{
+    width: 128px;
+    height: 6vh;
+    font-size: 17px;
+    background-color: aquamarine;
+    margin-top: 25px;
+}
+input{
+    height: 6vh;
+    margin: 8px;
+    font-size: 19px;
+}
